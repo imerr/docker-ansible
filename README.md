@@ -1,2 +1,2 @@
 # docker-ansible
-Basic ansible docker container based on debian:latest
+Basic ansible docker container based on debian:stable
